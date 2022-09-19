@@ -1,2 +1,2 @@
 # aws-status-slack
-Python scripts to pull aws status and push to slack
+Ruby script to pull aws status and push to slack
